@@ -97,7 +97,7 @@ To replicate this project:
 
 ## Live Demo
 
-Please click on the following link to see the demo of the Customer [Segmentation Project](https://huggingface.co/spaces/Saber-0722/Customer-Segmentation)
+Please click on the following link to see the demo of the [Customer Segmentation Project](https://huggingface.co/spaces/Saber-0722/Customer-Segmentation)
 
 ## 🤝 Contributing
 

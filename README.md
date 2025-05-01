@@ -95,12 +95,9 @@ To replicate this project:
    jupyter notebook
    ```
 
-## 📌 Future Enhancements
+## Live Demo
 
-- Incorporate additional clustering algorithms like DBSCAN or Hierarchical Clustering.
-- Integrate customer lifetime value (CLV) analysis.
-- Deploy the model using a web framework for real-time segmentation.
-- Automate the pipeline using workflow management tools.
+Please click on the following link to see the demo of the Customer [Segmentation Project](https://huggingface.co/spaces/Saber-0722/Customer-Segmentation)
 
 ## 🤝 Contributing
 

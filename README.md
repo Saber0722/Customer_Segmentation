@@ -2,6 +2,10 @@
 
 Welcome to the **Customer Segmentation** project! This repository showcases an end-to-end machine learning pipeline designed to segment customers based on their purchasing behavior and demographic attributes. By leveraging unsupervised learning techniques, this project aims to provide actionable insights that can drive targeted marketing strategies and enhance customer engagement.
 
+## Live Demo
+
+Please click on the following link to see the demo of the [Customer Segmentation Project](https://huggingface.co/spaces/Saber-0722/Customer-Segmentation).
+
 ## 📁 Repository Structure
 
 ```
@@ -94,10 +98,6 @@ To replicate this project:
    ```bash
    jupyter notebook
    ```
-
-## Live Demo
-
-Please click on the following link to see the demo of the [Customer Segmentation Project](https://huggingface.co/spaces/Saber-0722/Customer-Segmentation)
 
 ## 🤝 Contributing
 
